@@ -1,0 +1,78 @@
+.header{
+    background-color: #4f8fca;
+    height: 70px;
+    line-height: 60px;
+}
+.title{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+.body{
+    background-color: hsl(198, 98%, 81%);
+    height: 550px;
+}
+.menu{
+    background-color: #28aecb;
+    height: 420px;
+    margin-left: 25%;
+    position: relative;
+    top: 80px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.chambre{
+    padding: 0px 0px 0px 0px;
+}
+.etudiant{
+    box-sizing: border-box;
+    padding: 20px 0px 0px 0px;
+}
+.logo-chambre{
+    display: inline-block;
+    position: absolute;
+}
+.logo-etudiant{
+    position: absolute;
+    top: 225px;
+}
+.lien-chambre{
+    display: inline-block;
+    position: relative;
+    margin-left: 43%;
+    margin-top: 10px;
+}
+.lien-etudiant{
+    display: inline-block;
+    position: relative;
+    margin-left: 43%;
+    margin-top: 25px;
+}
+a:link{
+    text-decoration: none;
+}
+.enregistrer{
+    height: 60px;
+    line-height: 50px;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #4f8fca;
+    border-radius: 5px;
+    position: relative;
+}
+.lister{
+    margin-top: 20px;
+    height: 60px;
+    line-height: 50px;
+    color: black;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #4f8fca;
+    margin: 20px;
+    border-radius: 5px;
+    position: relative;
+    top: 20p;
+}

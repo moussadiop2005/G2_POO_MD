@@ -1,0 +1,14 @@
+.header{
+    background-color: #4f8fca;
+    height: 70px;
+    line-height: 60px;
+}
+.title{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+.body{
+    background-color: hsl(198, 98%, 81%);
+    height: 550px;
+}
